@@ -99,6 +99,25 @@ input {
     margin: 0 5px;
 }
 /******************************************/
+.member-area {
+    background-image: url(images/progress-bar-bg.jpg);
+    color: white;
+    height: 60px;
+    background-position: center;
+    background-size: cover;
+    padding: 17% 0;
+    text-align: center;
+}
+.text-part {
+ width: 30%;
+ padding: 0 10%;
+ text-align: justify;
+}
+.text-part h1 {
+    margin-top: -50px;
+    font-size: 50px;
+}
+/******************************************/
 .contribute {
     text-align: justify;
     display: flex;
@@ -143,4 +162,9 @@ footer {
 }
 footer p,h4 {
     margin: 0;
+}
+footer h4 {
+    font-family: 'Lobster', cursive;
+    color: orange;
+    font-size: 20px;
 }
