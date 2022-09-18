@@ -48,7 +48,7 @@ header {
     color: #FF5959;
 }
 
-input {
+.donate-number input {
     border-top: hidden;
     border-right: hidden;
     border-left: hidden;
